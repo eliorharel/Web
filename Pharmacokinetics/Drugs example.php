@@ -1,0 +1,1 @@
+-- Essayer de varier les familles thérapeutiques ou alors varier de molécules dans une famille afin que l'étude de la pharmacocinétique soit intéressante
