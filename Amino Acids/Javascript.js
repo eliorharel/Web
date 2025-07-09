@@ -1,3 +1,5 @@
+//Ajouter  les représentations des différents acides aminés 
+
 function convertCodon()
   {
     const codon = document.getElementById('codonInput').value.toUpperCase();
